@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "start": "npm-run-all --parallel start:frontend start:backend",
+        "start:frontend": "vite",
+        "start:backend": "node ../backend/server.js"
+      }
+}

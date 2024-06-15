@@ -6,7 +6,8 @@
 ## 2. 後續
 1. 需要打包
 2. 輸入框要帶有markdown語法顏色
-3. 如果有大佬可以幫我繼續寫下去 🫠
+3. 語言包 
+4. 希望有大佬可以幫我繼續寫下去 🫠
 ## 3. 目前的執行方式
 1. git clone https://github.com/Andy-0614/jumpCode.git
 2. 到backend & frontend ```npm i```

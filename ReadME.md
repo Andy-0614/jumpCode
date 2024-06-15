@@ -8,9 +8,10 @@
 2. 輸入框要帶有markdown語法顏色
 3. 如果有大佬可以幫我繼續寫下去 🫠
 ## 3. 目前的執行方式
-1. 到backend & frontend ```npm i```
-2. cd frontend
-3. npm run start
+1. git clone https://github.com/Andy-0614/jumpCode.git
+2. 到backend & frontend ```npm i```
+3. cd frontend
+4. npm run start
 ## 4. 目錄
 ### 後端
 - `server.js `
